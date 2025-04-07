@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello!
 
 <!--
 **krendabest/krendabest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently working at RMIT University on quantum devices, I primarily work with MATLAB and Python.
+My passion is renewable energy, so I may have projects related to this also.
+Also, my friend Kyla and I are learning how to use git - so we may have some random other projects too.
